@@ -1,4 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Merriweather:ital@0;1&family=Work+Sans:wght@400;500;800&display=swap");
+@font-face {
+  font-family: "Croissant One";
+  src: url("../assets/fonts/CroissantOne-Regular.ttf") format("truetype");
+}
 
 html {
   font-size: 18px;
@@ -195,6 +199,7 @@ footer .content {
   font-style: italic;
   color: #9b9b9b;
   line-height: 1.5;
+  font-family: "Croissant One", "Merriweather", serif;
 }
 
 footer p {
